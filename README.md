@@ -4,7 +4,7 @@
 [Archiver Team](https://github.com/Archive-Discord) : ![profile count](https://komarev.com/ghpvc/?username=Archive-Discord&color=red)&nbsp;<br>
 
 ### 자료실
-- [Didscord Mora 봇](https://koreadev.co.kr/mora) - discord Bot
+- [Didscord Mora 봇](https://mora-bot.kr) - discord Bot
 - [korcen(코르센)](https://github.com/TANAT96564/korcen) - korean Censorship Module (메인 개발자 : [Tanat05](https://github.com/tanat05))
 
 ### Status
